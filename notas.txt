@@ -1,0 +1,10 @@
+
+
+estructura
+
+body etiqueta   toda etiqueta que abre tiene que cerrar
+html etiqueta   toda etiqueta que abre tiene que cerrar
+head etiqueta  toda etiqueta que abre tiene que cerrar
+footer etiqueta toda etiqueta que abre tiene que cerrar
+
+ emet
